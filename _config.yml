@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air"
 title                    : "Marco Delgado Garrido"
 title_separator          : "-"
 name                     : &name "Marco Delgado Garrido"
